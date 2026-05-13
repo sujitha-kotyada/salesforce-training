@@ -1,93 +1,117 @@
-DAY 2 - PLATFORM BASICS
----------------------------------------------
- What is Salesforce Platform? 
- 
- - app development platform that extends your customer relationship management (CRM) system’s reach and functionality.
- 
- - Salesforce Platforms low-code & tools automation make it easy for anyone in organization to create effective & secure apps
- 
- - It helps companies Store customer information,Automate work,Build apps,Manage users and data
- 
-----------------------------------
- APP :-
- 
- - An app is a set of objects, fields, and other functionality, like flows or analytics, that support a specific business function.
- 
- - Example :- College Management App
+# DAY 2 - PLATFORM BASICS
 
- ----------------------------------
- OBJECT :-
+---
 
-- An Object is like a database table that stores data.
+# What is Salesforce Platform?
 
-- Examples :- Student,Faculty
+Salesforce Platform is a cloud-based app development platform that extends CRM functionality and helps businesses build applications easily.
 
------------------------------------------------
-TAB :- 
+Salesforce provides low-code tools and automation features that allow companies to create secure and effective applications without much coding.
 
-- A Tab is used to open and access objects easily in Salesforce.
+It helps companies:
+- Store customer information
+- Automate business processes
+- Build applications
+- Manage users and data
 
-- Example :- Student Tab opens Student records.
+---
 
----------------------------------------------------
-Configuration vs Coding :-
+# APP
 
-CONFIGURATION 
+An App is a collection of objects, fields, tabs, flows, and other features used for a specific business purpose.
 
-- Configuration means customizing Salesforce using clicks instead of programming.
+### Example:
+College Management App
 
-- We use Configuration when we need 
+---
 
-   -> Simple business logic
+# OBJECT
 
-   -> Fast customization
+An Object is like a database table used to store related data.
 
-   -> No coding needed
-
-  Examples:
-  - Creating fields
-  - Validation rules
-  - Workflows
-
-CODING 
-
-- Coding means writing custom logic using Apex programming.
-
-- We use Coding When we have
-
-  -> Advanced business requirements
-  
-  -> Complex calculations
-  
-  -> External system integration
-
-   Examples:
-  - Complex automation
-  - Custom integrations
-
------------------------------------------------
-My System Design
-
-System Name : College Management App
-
-Objects Inside App :-
+### Examples:
 - Student
 - Faculty
 - Course
 - Department
 
-Users Interaction :-
+---
 
--> Admin
+# TAB
+
+A Tab is used to open and access objects easily in Salesforce.
+
+### Example:
+Student Tab opens Student records.
+
+---
+
+# Configuration vs Coding
+
+## CONFIGURATION
+
+Configuration means customizing Salesforce using clicks instead of programming.
+
+### We use Configuration when:
+- Simple business logic is needed
+- Fast customization is required
+- No coding is necessary
+
+### Examples:
+- Creating fields
+- Validation Rules
+- Workflows
+- Flows
+
+---
+
+## CODING
+
+Coding means writing custom logic using Apex programming language.
+
+### We use Coding when:
+- Advanced business requirements exist
+- Complex calculations are needed
+- External system integration is required
+
+### Examples:
+- Complex automation
+- Custom integrations
+- Advanced business logic
+
+---
+
+# My System Design
+
+## System Name
+College Management App
+
+---
+
+# Objects Inside App
+
+- Student
+- Faculty
+- Course
+- Department
+
+---
+
+# User Interaction
+
+## Admin
 - Manage student records
 - Add courses
 - Assign faculty
-  
--> Faculty
+
+---
+
+## Faculty
 - View student details
 - Update marks
-  
-->Students
+
+---
+
+## Students
 - View course details
 - Check department information
-
