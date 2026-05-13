@@ -1,53 +1,66 @@
-DAY 1 - CRM BASICS
---------------------
+# DAY 1 - CRM BASICS
 
-CRM :-
+---
 
--> CRM stands for Customer Relationship Management
+# CRM
 
--> Allows to manage relationships with customers and track data related to interactions
+- CRM stands for Customer Relationship Management.
 
--> used to store customer data and manage communication with customers
+- CRM helps companies manage relationships with customers and track customer-related data.
 
+- It is used to store customer information and manage communication with customers.
 
-WHY COMPANIES USE SALESFORCE?
+---
 
--> help companies sell, service, market, analyze, and connect with customers.
+# WHY COMPANIES USE SALESFORCE?
 
--> For Customer Relationship Management
+- Salesforce helps companies sell, service, market, analyze, and connect with customers.
 
--> For storing and tracking customer data
+- It is mainly used for Customer Relationship Management (CRM).
 
--> allows companies to customize and personalize the experience for customers, partners, and employees
+- It helps businesses store and track customer data.
 
+- Salesforce allows companies to customize and personalize experiences for customers, partners, and employees.
 
-o ACCOUNT :- 
+---
 
--> Accounts are the companies you’re doing business with
+# ACCOUNT
 
--> Account means a company or organisation or business. eg:College,hospital
+- Accounts are the companies or organizations you are doing business with.
 
-o CONTACT :- 
+- An Account represents a company, organization, or business.
 
--> Contacts are the people who work at an Account.
+### Examples:
+- College
+- Hospital
 
--> Contact represents a person related to that Account. eg:student,patient
+---
 
-o OPPORTUNITY :-
+# CONTACT
 
--> Opportunities are qualified leads that are converted.
+- Contacts are people related to an Account.
 
--> When you convert the Lead, you create an Account and Contact along with the Opportunity.
+- A Contact represents a person connected to that organization.
 
+### Examples:
+- Student
+- Patient
 
-REAL-LIFE MAPPING :-
+---
 
-College Admission System
+# OPPORTUNITY
 
--> Account = College
+- Opportunities are qualified leads that are converted into possible business deals or processes.
 
--> Contact = Student
+- When a Lead is converted, Salesforce creates an Account, Contact, and Opportunity.
 
--> Lead = Student interested in admission
+---
 
--> Opportunity = Admission process
+# REAL-LIFE MAPPING
+
+## College Admission System
+
+- Account = College
+- Contact = Student
+- Lead = Student interested in admission
+- Opportunity = Admission process
